@@ -8,7 +8,7 @@ I'm a Learning & Development professional with 5+ years of experience, now trans
 
 - **Languages**: Python and  SQL
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
-- **Visualization**: Tableau, Power BI, Excel (Advanced)
+- **Visualization**: Tableau, Power BI, Excel (Advanced) 
 - **ML & Modelling**: scikit-learn, Logistic Regression, Decision Trees, Classification Models
 - **Tools**: Jupyter Notebook, VS Code, Git, Streamlit
 
