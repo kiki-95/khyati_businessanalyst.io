@@ -6,7 +6,7 @@ I'm a Learning & Development professional with 5+ years of experience, now trans
 
 ## 🔧 Tech Stack
 
-- **Languages**: Python, SQL, R (beginner)
+- **Languages**: Python and  SQL
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
 - **Visualization**: Tableau, Power BI, Excel (Advanced)
 - **ML & Modelling**: scikit-learn, Logistic Regression, Decision Trees, Classification Models
@@ -70,4 +70,4 @@ Built an Excel VBA-based tool to generate weekly team-wise headcount and trainin
 
 ---
 
-_✨ “Learning never exhausts the mind — it only fuels it.” ✨_
+_✨ “Learning never exhausts the mind — it only fuels it.” ✨_— Leonardo da Vinci.
