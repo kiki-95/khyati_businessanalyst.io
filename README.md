@@ -23,6 +23,18 @@ I'm a Learning & Development professional with 5+ years of experience, now trans
 
 ---
 
+## 📌 Featured Projects
+
+- [🌌 Stellar Object Classification](https://github.com/your-username/stellar-classification)  
+  A machine learning classifier that predicts whether a celestial object is a Galaxy, Star, or Quasar using scikit-learn.
+
+- [📊 L&D Dashboard Insights](https://github.com/your-username/ld-dashboard)  
+  A Power BI dashboard visualizing learner feedback, session engagement, and performance metrics.
+
+- [🎯 Admissions Chance Predictor](https://github.com/your-username/admissions-predictor)  
+  Built a regression model to predict graduate admissions chances based on CGPA, SOP, and GRE.
+
+
 ## 📁 Projects
 
 Here are some projects that reflect my transition and strengths:
